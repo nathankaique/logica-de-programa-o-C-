@@ -1,36 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net8.0": []
   },
   "packageFolders": {
-    "/home/runner/logica-de-programacao/.cache/.nuget/packages/": {}
+    "C:\\Users\\nathanestecio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/logica-de-programacao/main.csproj",
-      "projectName": "main",
-      "projectPath": "/home/runner/logica-de-programacao/main.csproj",
-      "packagesPath": "/home/runner/logica-de-programacao/.cache/.nuget/packages/",
-      "outputPath": "/home/runner/logica-de-programacao/obj/",
+      "projectUniqueName": "C:\\Users\\nathanestecio\\C#\\cc.csproj",
+      "projectName": "cc",
+      "projectPath": "C:\\Users\\nathanestecio\\C#\\cc.csproj",
+      "packagesPath": "C:\\Users\\nathanestecio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nathanestecio\\C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/runner/logica-de-programacao/.cache/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\nathanestecio\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp7.0"
+        "net8.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "netcoreapp7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -38,11 +38,16 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "netcoreapp7.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -59,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/nix/store/4k08ckhym1bcwnsk52j201a80l2xrkhp-dotnet-sdk-7.0.410/sdk/7.0.410/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

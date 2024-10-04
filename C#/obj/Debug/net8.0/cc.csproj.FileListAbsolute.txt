@@ -1,0 +1,14 @@
+C:\Users\nathanestecio\C#\bin\Debug\net8.0\cc.exe
+C:\Users\nathanestecio\C#\bin\Debug\net8.0\cc.deps.json
+C:\Users\nathanestecio\C#\bin\Debug\net8.0\cc.runtimeconfig.json
+C:\Users\nathanestecio\C#\bin\Debug\net8.0\cc.dll
+C:\Users\nathanestecio\C#\bin\Debug\net8.0\cc.pdb
+C:\Users\nathanestecio\C#\obj\Debug\net8.0\cc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nathanestecio\C#\obj\Debug\net8.0\cc.AssemblyInfoInputs.cache
+C:\Users\nathanestecio\C#\obj\Debug\net8.0\cc.AssemblyInfo.cs
+C:\Users\nathanestecio\C#\obj\Debug\net8.0\cc.csproj.CoreCompileInputs.cache
+C:\Users\nathanestecio\C#\obj\Debug\net8.0\cc.dll
+C:\Users\nathanestecio\C#\obj\Debug\net8.0\refint\cc.dll
+C:\Users\nathanestecio\C#\obj\Debug\net8.0\cc.pdb
+C:\Users\nathanestecio\C#\obj\Debug\net8.0\cc.genruntimeconfig.cache
+C:\Users\nathanestecio\C#\obj\Debug\net8.0\ref\cc.dll
